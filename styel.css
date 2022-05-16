@@ -1,0 +1,67 @@
+.all {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.one {
+    background-color: red;
+    height: 500px;
+    width: 30%;
+}
+
+.two {
+    background-color: rgb(94, 47, 47);
+    width: 50%;
+    height: 270px;
+}
+
+.three {
+    background-color: rgb(14, 180, 28);
+    width: 50%;
+    height: 270px;
+}
+
+.four {
+    background-color: rgb(74, 110, 208);
+    width: 100%;
+    height: 130px;
+}
+
+.five {
+    background-color: rgb(210, 213, 48);
+    width: 121%;
+    height: 70px;
+}
+
+.six {
+    background-color: rgb(253, 104, 11);
+    width: 20%;
+    margin-bottom: 80px;
+}
+
+.ttff {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.tt {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.f1 {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.f2 {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
